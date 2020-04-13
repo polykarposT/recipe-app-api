@@ -1,6 +1,3 @@
 language: python
 python:
   - "3.8"
-
-scirpt:
-  - sh -c "python manage.py test"
